@@ -1,0 +1,86 @@
+
+html, body {
+    margin: 0;
+    height: 100%;
+    background-color: #333;
+}
+#general{
+	text-align: center;
+	font-size: 2em;
+	font-family: Montserrat;
+	background-color: #6f5499;
+	color: white;
+}
+
+
+.navbar-right {
+    margin-right: 13.0625em;
+    margin-top: -2.7em;
+}
+
+#score{
+	color :black;
+	font-family: Montserrat	;
+	font-size: 40px;
+}
+
+.jdida{
+	font-size: 40px;
+}
+
+
+#nav{
+	background-color: white;
+    height: 3.6em;
+    margin-top: -0.625em;
+    margin-bottom: -1.25em;
+}
+
+
+#big{
+	font-size: 100px;
+}
+
+
+
+.newcolors{
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}
+
+#aide{
+	color :black;
+	font-family: Montserrat	;
+	font-size: 20px;
+	margin-left: 48%;
+    font-weight: bold;
+    padding-top: 10px;
+    width: 9.375em;
+}
+
+
+
+.col-md-4{
+	width: 15.625em;
+	height: 15.625em;
+	background-color: red;
+	border-radius: 15px 50px;
+	margin-right: 2em;
+    margin-top: 2em;
+
+}
+
+#colors{
+
+	margin-left: 32%;
+    margin-right: 22%;
+    margin-top: 3.125em;
+    transition:all 5s linear;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
